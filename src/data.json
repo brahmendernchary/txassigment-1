@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Joe",
+        "description": "He is good for communications, He is good for communications, He is good for communications",
+        "asset_type": "video",
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 2,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Romio",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 3,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Joe",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 4,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Romio",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 5,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Joe",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 6,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Romio",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 7,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Joe",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 8,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Romio",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 9,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Joe",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 10,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Romio",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 11,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Joe",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    },
+    {
+        "id": 12,
+        "author_avatar": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "author_name": "Romio",
+        "description": "He is good",
+        "asset_type": [
+            "image",
+            "video"
+        ],
+        "thumbnail_url": "https://climatecommunication.yale.edu/wp-content/uploads/2017/04/001-stone-circle-jpeg-768x350.jpg",
+        "created_at": "jun-14",
+        "updated_at": "jun-16"
+    }
+]

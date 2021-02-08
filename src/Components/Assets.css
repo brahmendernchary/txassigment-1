@@ -1,0 +1,35 @@
+.asset__card {
+  margin-bottom: 20px;
+}
+
+.asset__card__item {
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  padding: 5px;
+}
+.asset__card__stats {
+  margin-top: 5px;
+  margin-bottom: 7px;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100px;
+}
+.asset__card__stats > .MuiSvgIcon-root {
+  padding: 15px;
+  margin-left: 10px;
+}
+
+.asset__card__body {
+  padding: 5px;
+  font-weight: 400;
+}
+.asset__card__body > h6 {
+  font-weight: 400;
+  padding: 5px;
+  font-size: 12px;
+}
+.asset__card__footer {
+}
+.asset__card__footer > img {
+  width: 100%;
+}

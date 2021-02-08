@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+.app {
+  background-color: whitesmoke;
+  align-items: center;
+  margin-top: 10px;
+  display: flex;
+}
+
+.app_body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.app_data {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
